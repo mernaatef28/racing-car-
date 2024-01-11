@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/mernaatef28/racing-car-/blob/main/envo.png?raw=true" alt="project-screenshot" width="1000" height="400/">
+<img src="https://github.com/mernaatef28/racing-car-/blob/main/envo.png?raw=true" alt="project-screenshot" width="1000" height="800/">
 
   
   
